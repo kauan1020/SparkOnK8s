@@ -1,2 +1,2 @@
 # SparkOnK8s
-Building a datalake using spark on kubernetes
+Buildind a data lake using spark on kubernetes
